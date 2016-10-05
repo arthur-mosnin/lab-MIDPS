@@ -1,4 +1,3 @@
-Qwert
-;comit
+file din mapa lab3
 
 
